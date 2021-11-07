@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Cory Culpepper: Web Class Project Index</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="mywebsitestylesheet.css">
+</head>
+<body id="wrapper">
+<header>
+<h1>Cory Culpepper's Quote of the Day!<br>Home Page!!!</h1>
+</header>
+<nav>
+	<b><a href="index.html">Home</a> &nbsp; <a href="Warpage2.html">War</a> &nbsp; <a href="Economicpage3.html">Economic</a> &nbsp; <a href="Cleverpage4.html">Clever</a> &nbsp; <a href="Wisdompage5.html">Wisdom</a> &nbsp; <a href="Philosophypage6.html">Philosophy</a></b>
+</nav>
+<main>
+<div>
+<img src="henryford.jfif" height="300" width="250" alt="Henry Ford" hspace="20" vspace="20">
+<img src="mahatmagandhi.jfif" height="300" width="275" alt="Mahatma Gandhi" hspace="20" vspace="20">
+<img src="laotzu.jfif" height="300" width="250" alt="Lao Tzu" hspace="20" vspace="20">
+<img src="maewest.jfif" height="250" width="300" alt="Mae West" hspace="20" vspace="20">
+</div>
+<div>
+<h2>Quote of the Day!!</h2>
+<img src="thomassowell3.jfif" height="225" width="300" alt="Thomas Sowell" hspace="20" vspace="20">
+<img src="thomassowell.jfif" height="225" width="300" alt="Thomas Sowell" hspace="20" vspace="20">
+<img src="thomassowell2.jfif" height="225" width="300" alt="Thomas Sowell" hspace="20" vspace="20">
+<p>"It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - Thomas Sowell</p>
+</div>
 
-You can use the [editor on GitHub](https://github.com/smiley5036/famouspicsandquotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h3>What this website is about:</h3>
+<p>Welcome to quote of the day!!  Here you’ll find quotes from some of the most famous people of all time.  We have separated the quotes according to what the quote is referencing.  This site will provide a sort of one stop shop for famous quotes.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</main>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smiley5036/famouspicsandquotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<footer>
+<small><i>Copyright &copy; Oct 31, 2021 Cory Culpepper-culpepper5036@gmail.com</i>
+</small>
+</footer>
+</body>
